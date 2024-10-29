@@ -19,3 +19,11 @@ In this scenario, tough, it will be run as a full VM as it is a requirement for 
 
 ---
 
+### 1 - Create or find candidade CRUD web app
+
+The fictional company will be the Most Simple Company. From now on described as MSC. CRUD app will be the most simple CRUD, and will be named from now on as MSCRUD. 
+
+It is not required to develop the application. But as a personal choise, I will initially develop the MSCRUD by myself, just as a personal challenge. If it takes more than 2 days to do it, I will then look for a built CRUD app and just implement it.
+
+Also, initially the db of choice will be MySQL. Front end will also be the simplest front-end interface. 
+
